@@ -12,9 +12,7 @@ public class Main {
         
         int sum = sumOfNumbers(number);
 
-        
         System.out.println(sum);
-
     }
     
     // do this one and the lab is complete. really.
@@ -39,7 +37,6 @@ public class Main {
         scan.close();
         return num;
     }
-    
     
     
     // for Extra Credit
